@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Algorithmic-Playground/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Algorithmic-Playground/static/js/main.d9b39740.chunk.js",
+    "main.js.map": "/Algorithmic-Playground/static/js/main.d9b39740.chunk.js.map",
+    "runtime-main.js": "/Algorithmic-Playground/static/js/runtime-main.8ab22223.js",
+    "runtime-main.js.map": "/Algorithmic-Playground/static/js/runtime-main.8ab22223.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Algorithmic-Playground/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4a735474.chunk.js": "/Algorithmic-Playground/static/js/2.4a735474.chunk.js",
+    "static/js/2.4a735474.chunk.js.map": "/Algorithmic-Playground/static/js/2.4a735474.chunk.js.map",
+    "index.html": "/Algorithmic-Playground/index.html",
+    "precache-manifest.dbaf15f6b3b82594cf008b040119ddf8.js": "/Algorithmic-Playground/precache-manifest.dbaf15f6b3b82594cf008b040119ddf8.js",
+    "service-worker.js": "/Algorithmic-Playground/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Algorithmic-Playground/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Algorithmic-Playground/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4a735474.chunk.js.LICENSE.txt": "/Algorithmic-Playground/static/js/2.4a735474.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Algorithmic-Playground/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ab22223.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4a735474.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d9b39740.chunk.js"
+  ]
+}
